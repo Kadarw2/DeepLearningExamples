@@ -1,0 +1,9 @@
+pd.read csv.$not
+
+x = dataset.drop columns ((Rapping)) [" (1=m, 0=b) "])
+
+y = dataset.drop columns Rapping 2 = w, 0=d 
+
+
+From sklearn.model selection imported train_test_split
+x_train,x_test y_test = train_test_split(x, y, test_size=0.2)
